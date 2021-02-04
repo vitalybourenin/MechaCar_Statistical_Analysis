@@ -10,4 +10,13 @@
 
 # Summary Statistics on Suspension Coils
 
+![total](total_summary.PNG)
+
+
+
+
+![lot](lot_summary.PNG)
+
+
+
 
