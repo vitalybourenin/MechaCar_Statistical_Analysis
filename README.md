@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 
-##Linear Regression to Predict MPG
+# Linear Regression to Predict MPG
+
 ![MLR](MLR.PNG)
 
 - The regression shows that vehicle weight, drivetype (AWD or not) and, a vehicle's spoiler angle all have a non-random effect on the variation in the model. 
