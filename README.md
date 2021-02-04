@@ -26,11 +26,20 @@
 
 ![across](1_sample_t.PNG)
 
+- with a p-value above .05, we fail to reject the null hypothesis that the mean PSI of all manufacturing lots is equal to the mean PSI of the population at the 95% confidence level.  
+
 
 ![1](t1.PNG)
+
+- with a p-value below .05, we reject the null hypothesis that the mean PSI of lot 1 is equal to the mean PSI of the population at the 95% confidence level.
 
 
 ![2](t2.PNG)
 
+- with a p-value below .05, we reject the null hypothesis that the mean PSI of lot 2 is equal to the mean PSI of the population at the 95% confidence level.
+
 
 ![3](t3.PNG)
+
+- with a p-value above .05, we fail to reject the null hypothesis that the mean PSI of lot 3 is equal to the mean PSI of the population at the 95% confidence level.
+
