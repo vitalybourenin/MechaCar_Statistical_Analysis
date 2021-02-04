@@ -22,3 +22,15 @@
 - The suspension coils for lot 3 had a variance of ~170 pounds per square inch, which does not meet the criteria. 
 
 
+# T-Tests on Suspension Coils
+
+![across](1_sample_t.PNG)
+
+
+![1](t1.PNG)
+
+
+![2](t2.PNG)
+
+
+![3](T3.PNG)
