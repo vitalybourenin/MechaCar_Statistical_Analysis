@@ -31,6 +31,7 @@
 
 ![1](t1.PNG)
 
+
 - with a p-value below .05, we reject the null hypothesis that the mean PSI of lot 1 is equal to the mean PSI of the population at the 95% confidence level.
 
 
@@ -43,3 +44,15 @@
 
 - with a p-value above .05, we fail to reject the null hypothesis that the mean PSI of lot 3 is equal to the mean PSI of the population at the 95% confidence level.
 
+
+
+# Study Design: MechaCar vs Competition
+
+One car feature that is of paramount to almost all car-buyers is safety. Tastes differ when it comes to other features in a vehicle, but nobody wants to sacrifice on safety. A design to compare the safety ratings of MechaCar vehicles against the competition. 
+
+Running a two-sample T-test with MechaCar vehicles and vehicles from another manufacturer could help directly compare the safety of MechaCar to that of another manufacturer.
+H0: mean(MechaCar safety rating) = mean(manufacturerX safety rating)
+Ha: mean(MechaCar safety rating) ≠ mean(manufacturerX safety rating)
+
+- This T-test could be run against any manufacturer MechaCar wants to compare their safety rating's with. 
+- The only data necessary to run this test would be the individual safety rating of each car for both manufacturers.
