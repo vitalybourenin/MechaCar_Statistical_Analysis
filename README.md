@@ -2,7 +2,7 @@
 
 # Linear Regression to Predict MPG
 
-![MLR](MLR.PNG)
+![MLR](Images/MLR.PNG)
 
 - The regression shows that vehicle weight, drivetype (AWD or not) and, a vehicle's spoiler angle all have a non-random effect on the variation in the model. 
 - The slope of the model is not considered zero because the variables tested did have an effect on MPG.
@@ -10,12 +10,12 @@
 
 # Summary Statistics on Suspension Coils
 
-![total](total_summary.PNG)
+![total](Images/total_summary.PNG)
 
 
 
 
-![lot](lot_summary.PNG)
+![lot](Images/lot_summary.PNG)
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 - Based on our current manufacturing data, the design specification is met for all lots in total, and for lots 1 & 2 individually. 
@@ -24,23 +24,23 @@
 
 # T-Tests on Suspension Coils
 
-![across](1_sample_t.PNG)
+![across](Images/1_sample_t.PNG)
 
 - with a p-value above .05, we fail to reject the null hypothesis that the mean PSI of all manufacturing lots is equal to the mean PSI of the population at the 95% confidence level.  
 
 
-![1](t1.PNG)
+![1](Images/t1.PNG)
 
 
 - with a p-value below .05, we reject the null hypothesis that the mean PSI of lot 1 is equal to the mean PSI of the population at the 95% confidence level.
 
 
-![2](t2.PNG)
+![2](Images/t2.PNG)
 
 - with a p-value below .05, we reject the null hypothesis that the mean PSI of lot 2 is equal to the mean PSI of the population at the 95% confidence level.
 
 
-![3](t3.PNG)
+![3](Images/t3.PNG)
 
 - with a p-value above .05, we fail to reject the null hypothesis that the mean PSI of lot 3 is equal to the mean PSI of the population at the 95% confidence level.
 
