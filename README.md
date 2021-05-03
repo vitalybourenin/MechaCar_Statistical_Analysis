@@ -1,5 +1,14 @@
 # MechaCar_Statistical_Analysis
 
+# Technologies Used
+- This anlysis was done in R, utilizing RStudio
+
+# Overview
+AutosRUs is facing production troubles that are slowing down production for their new prototype, the MechaCar. Using both internal and external datasets, the goals of this analysis are to: 
+- Identify which features in the dataset contribute to mpg of the MechaCar using multiple linear regression. 
+- Collect and visualize statistics on suspension coils from manufacturing lots. 
+- Run t-tests to determine if suspension coils from AutosRUs are statistically different from those produced by other manufacturers. 
+
 # Linear Regression to Predict MPG
 
 ![MLR](Images/MLR.PNG)
